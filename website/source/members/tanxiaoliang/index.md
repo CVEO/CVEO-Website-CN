@@ -1,6 +1,7 @@
 ---
 title: 谭效良
 date: 2017-05-10 22:46:19
+comments: false
 ---
 
 <div align=center>

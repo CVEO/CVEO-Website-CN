@@ -84,7 +84,7 @@ date: 2017-03-31 20:00:47
 > 长江科学院院报，Vol.27,No.1,2010,pp.13-16.
 
 > **机载激光雷达技术在电力选线工程中的应用** [链接](http://ckyyb.crsri.cn/CN/Y2010/V27/I1/26)
-> 张煜，窦延娟，张晓东.
+> 张晓东，窦延娟，刘平，张煜.
 > 长江科学院院报. Vol.27,No.1,2010,pp.13-16.
 
 > **Speckle Suppression Method in SAR image Based on Curvelet Domain BivaShrink Model** [链接](http://xueshu.baidu.com/s?wd=paperuri%3A%28e3893018ba5f97911c5223e4cc9ef219%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdx.doi.org%2F10.4304%2Fjsw.8.4.947-954&ie=utf-8&sc_us=9479163253041681469)
@@ -100,14 +100,14 @@ date: 2017-03-31 20:00:47
 > 光学学报，2009，29（10）：2726-2731.``EI``
 
 > **Active grid for feature extraction in remote sensing imagery** [链接](http://xueshu.baidu.com/s?wd=paperuri%3A%28c2a2862df2d3d2c45e7ff8e034a0e5fd%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fproceedings.spiedigitallibrary.org%2Fproceeding.aspx%3Farticleid%3D792160&ie=utf-8&sc_us=10014297665154707902)
-> 王文波，张晓东，费浦生.
+> 张煜，张晓东.
 > Multispectral Image Processing and Pattern Recognition,  Proc. Of SPIE Vol.7495, PP. 74954R-1-8, Yichang, 30October-1November 2009.``EI``
 
 > **An image fusion method based on EMD decomposition** [链接](http://xueshu.baidu.com/s?wd=paperuri%3A%28b611ecfa4e3769cd3f28f24644ef0bf6%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fspie.org%2FPublications%2FProceedings%2FPaper%2F10.1117%2F12.832639&ie=utf-8&sc_us=9307339925993020435)
-> Xiaodong Zhang, Zhiyan Yan Delu Pan  Jianya Gong.
+> Xiaodong Zhang, Zhiyan Yan, Jianya Gong.
 > Multispectral Image Processing and Pattern Recognition, Proc.  Of  SPIE Vol.7494, PP.74941R-1-9, Yichang, 30October-1November 2009.``EI``
 
-> **Nonparametric Method for Extraction of Region of Interest Based on Information Theory** [链接](http://xueshu.baidu.com/s?wd=paperuri%3A%28aa1b272c001c0479ef603d2f3c5111cb%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fspie.org%2FPublications%2FProceedings%2FPaper%2F10.1117%2F12.750679&ie=utf-8&sc_us=13231469876628166963)
+> **Nonparametric Method for Extraction of Region of Interest Based on Information Theory** [链接](https://www.researchgate.net/publication/252848294_Nonparametric_method_for_extraction_of_region_of_interest_based_on_information_theory_-_art_no_67902F)
 > Xiaodong Zhang, Jianhua Zhao, Yu Zhang, Kaiwen Zhong.
 > MIPPR2007 Remote Sensing and GIS Data Processing and Application;and Innovative Multispectral Technology and Application, Volume6790, PP.67902F-1-6, Wuhan, China , 15-17November 2007.``EI``
 
@@ -187,7 +187,7 @@ date: 2017-03-31 20:00:47
 > 张晓东, 金淑英, 张良培.
 > 全国遥感技术学术交流会. 2001.
 
-> **à小波分解在边缘检测中的应用** [链接](http://ch.whu.edu.cn/CN/abstract/abstract5034.shtml)
+> **àtrous小波分解在边缘检测中的应用** [链接](http://ch.whu.edu.cn/CN/abstract/abstract5034.shtml)
 > 张晓东，李德仁，蔡东翔，马洪超.
 > 武汉大学学报·信息科学版，Vol.29,No.5,2000.9，pp.29-32.
 
@@ -209,7 +209,7 @@ date: 2017-03-31 20:00:47
 > 史文中等编著，张晓东等编写第6章
 > 科学出版社，2013-09. ISBN：978-7-03-037397-7.
 
-> **遥感影像变化检测** [豆瓣](https://book.douban.com/subject/3045507/)
+> **遥感影像变化检测** [豆瓣](https://book.douban.com/subject/26709494/)
 > 张晓东、王文波、王庆、陈关州等著
 > 武汉大学出版社，2015-10-01. ISBN：978-7-307-16402-4. 
 

@@ -1,6 +1,7 @@
 ---
 title: 龚元夫
 date: 2017-04-15 11:48:37
+comments: false
 ---
 
 <div align=center>
