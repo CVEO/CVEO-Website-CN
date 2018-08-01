@@ -98,3 +98,9 @@ $$3379772.618，534945.1555$$
 •	CGCS2000坐标系：CGCS2000椭球体（事实上，CGCS2000椭球和WGS84椭球极为相似，偏差仅有0.11mm，完全可以兼容使用）
 
 <a name="footnote2">2</a>: European Petroleum Survey Group (EPSG)，负责维护并发布坐标参照系统的数据集参数，以及坐标转换描述，该数据集被广泛接受并使用。目前已有的椭球体，投影坐标系等不同组合都对应着不同的ID号，这个号在EPSG中被称为EPSG code，它代表特定的椭球体、单位、地理坐标系或投影坐标系等信息。
+
+(作者：孙玉峰)
+
+<div align=center>
+{% asset_img qrcode.png 扫一扫 %}
+</div>

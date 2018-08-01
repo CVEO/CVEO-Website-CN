@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 武汉大学 测绘遥感信息工程国家重点实验室 张晓东小组
-subtitle: 武汉大学CVEO研究小组
+title: 武汉大学张晓东教授CVEO小组
+subtitle: 武汉大学CVEO小组
 description: 武汉大学CVEO（Computer Vision Earth Observation）小组由武汉大学测绘遥感信息工程国家重点实验室张晓东教授领衔，成员包括1名博士后，5名博士研究生和2名硕士研究生。成立至今，CVEO小组参与和主持了一系列省、部级科研项目，还与行业相关企、事业单位开展了一系列横向科研项目合作。目前CVEO小组主要研究方向包括：遥感影像处理、人工智能与深度学习、GIS系统开发与应用。
 keywords: 武汉大学 CVEO 遥感 测绘遥感信息工程国家重点实验室
 author: 张晓东教授
@@ -133,3 +133,6 @@ jsonContent:
     excerpt: false
     categories: false
     tags: true
+
+baidusitemap:
+  path: baidusitemap.xml

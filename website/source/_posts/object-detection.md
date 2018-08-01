@@ -278,3 +278,5 @@ tags:
 > * Small U-Net for vehicle detection.[【链接】](https://medium.com/@vivek.yadav/small-u-net-for-vehicle-detection-9eec216f9fd6#.md4u80kad)
 > * Region of interest pooling explained.[【链接】](https://deepsense.io/region-of-interest-pooling-explained/)
 > * Supercharge your Computer Vision models with the TensorFlow Object Detection API.[【链接】](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html)
+
+(作者：朱坤)
