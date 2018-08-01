@@ -10,18 +10,22 @@ date: 2017-05-05 21:58:19
 航空摄影测量外业调绘系统V1.0 基于ArcGIS Runtime SDK for Android平台、Android操作系统、SQLite关系数据库、Gdal图形库、集成开发环境选用Android studio 4.0和MS Visual Studio 2013。本系统实现了在PC端的数据拼接，提高了数据入库效率，缩短了作业周期。通过ArcGIS Runtime SDK for Android平台和Android操作系统的结合，设计并开发了一套航空摄影测量外业调绘系统，通过界面设计，数据库设计，用移动通信技术和GIS技术实现界面和数据库的内容交互。系统主界面如下图所示：
 
 <div align=center>
-<img src = "images/main.png" />
+<img src = "images/main.jpg" />
 </div>
 
 系统整体架构如下图所示：
 
+<div align=center>
 <img src = "images/jiagou.png" />
+</div>
 
 # 系统功能模块
 
 本系统功能模块共分为十个子功能模块，分别为用户管理模块、任务管理模块、地图管理模块、地图基本操作模块、数据采集模块、要素查询模块、量测工具模块、多媒体模块、GPS模块和数据转换模块，如下图所示：
 
+<div align=center>
 <img src = "images/mokuai.png" />
+</div>
 
 # 运行环境及要求
 

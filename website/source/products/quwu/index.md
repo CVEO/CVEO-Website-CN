@@ -13,15 +13,21 @@ date: 2017-05-05 21:42:03
 
 无人机图像去雾平台使用优化后暗通道先验的去雾算法，对无人机图像进行去雾处理，得到清晰的遥感图像。其中去雾算法使用C++语言编写实现，平台界面使用Qt设计，无人机图像去雾平台界面如下图所示：
 
-<img src = "images/main.png" />
+<div align=center>
+<img src = "images/main.jpg" />
+</div>
 
 在上述实验的基础上，为了更加高效的进行影像处理，平台进行了多核集群并行加速，并行实验结果如下图所示：
 
+<div align=center>
 <img src = "images/MultiCore.png" />
+</div>
 
 无人机图像去雾的流程如下图所示：
 
+<div align=center>
 <img src = "images/flow.png" />
+</div>
 
 ### 运行环境以要求
 
